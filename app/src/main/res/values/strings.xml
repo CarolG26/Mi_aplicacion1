@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="déjá_vu">Déjá Vu</string>
+    <string name="txt_boton">Ingresar</string>
+    <string name="inventarario">Inventarario</string>
+    <string name="Usuario">usuario</string>
+    <string name="textview4">Usuario</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="preciocom">PrecioCom</string>
+    <string name="agregar">Agregar</string>
+    <string name="nom_producto">Nom Producto</string>
+    <string name="que_vas_hacer_hoy">Que vas hacer hoy ?</string>
+    <string name="registrar_venta">Registrar venta</string>
+    <string name="ir_al_inventario">Ir al inventario</string>
+    <string name="todo">TODO</string>
+    <string name="inventario">inventario</string>
+    <string name="Salir">Salir</string>
+    <string name="Atras">Atras</string>
+    <string name="Agregarproducto">Agregar Producto</string>
+    <string name="registro_de_ventas">Registro de ventas</string>
+    <string name="id">Id</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="valor_unidad">Valor unidad</string>
+    <string name="valor_total">Valor total</string>
+    <string name="codigo">Codigo</string>
+    <string name="nombre_producto">Nombre producto</string>
+    <string name="guardar">Guardar</string>
+    <string name="precioven">PrecioVen</string>
+    <string name="cantidades">Cantidades</string>
+    <string name="und">und</string>
+    <string name="mostrar_registros">Mostrar Registros</string>
+    <string name="t_ventas">t_ventas</string>
+    <string name="agregar_producto">Agregar Producto</string>
+    <string name="crear">Crear</string>
+    <string name="Inventario">Inventario</string>
+
+</resources>
